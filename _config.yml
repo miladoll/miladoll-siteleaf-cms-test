@@ -1,6 +1,6 @@
 ---
 title: siteleaf cms test
-timezone: UTC
+timezone: Asia/Tokyo
 collections:
   posts:
     title: Posts
